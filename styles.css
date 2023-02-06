@@ -1,0 +1,50 @@
+body {
+background-color: aqua;
+
+}
+h1 {
+    background-color: yellowgreen;
+    background-image: url(goddard-sponsored-hero-image-june2021.webp);
+   font-family:serif;
+   font-size: 60px;
+   font-style: italic;
+   text-align: center;
+} 
+hr {
+    height: px;
+   border-color: blue;
+   border-style: solid;
+}
+h1 {
+    border: aqua;
+    border-style: solid;
+}
+#official {
+    text-align: center;
+    color:blue;
+
+}
+.interior {
+    color:purple;
+}
+footer {
+    font-family:monospace;
+    color:darkblue;
+}
+.phone {
+    color: firebrick;
+    font-style: italic;
+}
+#location {
+    font-style: oblique;
+}
+.inquiries {
+    color:chocolate;
+    font-style: initial;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+html {
+    border: 2px;
+    border-color: blue;
+    border-style:solid;
+}
